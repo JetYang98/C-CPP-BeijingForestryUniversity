@@ -1,0 +1,6 @@
+*.cppЮФМў
+
+gcc -E -o *.i	дЄБрвы
+gcc -S -o *.s	Брвы
+gcc -c -o *.o	ЛуБр
+gcc -o 		СДНг
