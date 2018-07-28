@@ -1,7 +1,4 @@
-**C-CPP-BeijingForestryUniversity**
-
-------
-
+# C-CPP-BeijingForestryUniversity
 本项目主要是认识编译型语言的编译过程，以`C/C++`为例。
 
 使用的编译工具是`gcc`
